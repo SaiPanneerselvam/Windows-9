@@ -3,3 +3,6 @@ Windows 9 is an OS created by Sai Corporation for Users who want easy change to 
 ######
 ### Download
 To download an copy of Windows 9, [Click here](https://github.com/SaiPanneerselvam/Windows-9/releases/latest)
+### Get development Utilities
+- Download and install the w9 console.
+- Type `gt STATIC (VOID) {get{a,s,v,c,x,g,d,f,e,j,g,j,c,b,ng,df} df(mixwith get(else_df)` to install utilities. 
